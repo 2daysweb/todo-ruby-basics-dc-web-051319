@@ -11,11 +11,11 @@ def argue(arg)
 end
 
 def greeting(greeting, name)
-  puts ""
-
+  puts "#{greeting}, #{name}!"
 end
 
 def return_a_value
+  print "Nice"
 
 end
 
