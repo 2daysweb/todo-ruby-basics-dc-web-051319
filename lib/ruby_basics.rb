@@ -11,6 +11,7 @@ def argue(arg)
 end
 
 def greeting(greeting, name)
+  puts ""
 
 end
 
